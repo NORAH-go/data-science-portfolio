@@ -27,7 +27,13 @@ Does a higher discount percentage lead to higher overall profitability, or does 
 
 **Visualization:**
 ![Impact of Discount on Profit](https://raw.githubusercontent.com/NORAH-go/data-science-project/main/discount_vs_profit_scatter.png)
-*Figure: Scatter plot showing the negative impact of high discount percentages on order profit.*
+*Figure 1: Scatter plot showing the negative impact of high discount percentages on order profit.*
+
+![Average Profit by Discount Group](https://raw.githubusercontent.com/NORAH-go/data-science-project/main/discount_group_avg_profit.png)
+*Figure 2: Bar chart illustrating the decline in average profit as discounts increase.*
+
+**Limitations:**
+This analysis focuses strictly on the per-item level. It lacks order-level aggregation to check for cross-selling effects (e.g., buying a discounted item along with a full-price item).
 
 🔗 **[Click here to view the full Project Repository](https://github.com/NORAH-go/data-science-project)**
 *(Includes the complete Jupyter Notebook, data cleaning process, and detailed README.)*
